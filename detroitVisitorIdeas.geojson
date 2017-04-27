@@ -10,9 +10,9 @@
     "properties": {
     "Name":"Renn Center",
     "Address":"100 Renaissance Center, Detroit, MI 48243",
-    "Sights":"TRUE",
-    "ArtAndArch":"FALSE",
-    "Food":"FALSE",
+    "Sights": true,
+    "ArtAndArch": false,
+    "Food": false,
     "Notes":"Cars and concrete"
     }
   },
@@ -25,9 +25,9 @@
     "properties": {
     "Name":"The Guardian Building",
     "Address":"500 Griswold St, Detroit, MI 48226",
-    "Sights":"true",
-    "ArtAndArch":"true",
-    "Food":"false",
+    "Sights": true,
+    "ArtAndArch": true,
+    "Food": false,
     "Notes":"Beautiful interior mosaics"
     }
   },
@@ -40,9 +40,9 @@
     "properties": {
     "Name":"Supino Pizzeria",
     "Address":"2457 Russell St, Detroit, MI 48207",
-    "Sights":"false",
-    "ArtAndArch":"false",
-    "Food":"true",
+    "Sights": false,
+    "ArtAndArch": false,
+    "Food": true,
     "Notes":"Great pizza"
     }
   },
@@ -55,9 +55,9 @@
     "properties": {
     "Name":"Fox Theatre",
     "Address":"2211 Woodward Ave, Detroit, MI 48201",
-    "Sights":"true",
-    "ArtAndArch":"true",
-    "Food":"false",
+    "Sights": true,
+    "ArtAndArch": true,
+    "Food": false,
     "Notes":"Beautiful old restored movie palace"
     }
   },
@@ -70,9 +70,9 @@
     "properties": {
     "Name":"Masonic Temple",
     "Address":"500 Temple St, Detroit, MI 48201",
-    "Sights":"TRUE",
-    "ArtAndArch":"TRUE",
-    "Food":"FALSE",
+    "Sights": true,
+    "ArtAndArch": true,
+    "Food": false,
     "Notes":"Largest masonic temple in US"
     }
   },
@@ -85,9 +85,9 @@
     "properties": {
     "Name":"Detroit Institute of Arts",
     "Address":"5200 Woodward Ave, Detroit, MI 48202",
-    "Sights":"TRUE",
-    "ArtAndArch":"TRUE",
-    "Food":"FALSE",
+    "Sights": true,
+    "ArtAndArch": true,
+    "Food": false,
     "Notes":"Great art museum"
     }
   },
@@ -100,9 +100,9 @@
     "properties": {
     "Name":"Slows BBQ",
     "Address":"2138 Michigan Ave, Detroit, MI 48216",
-    "Sights":"FALSE",
-    "ArtAndArch":"FALSE",
-    "Food":"TRUE",
+    "Sights": false,
+    "ArtAndArch": false,
+    "Food": true,
     "Notes":"Good barbecue"
     }
   },
