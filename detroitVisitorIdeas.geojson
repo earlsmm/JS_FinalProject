@@ -25,9 +25,9 @@
     "properties": {
     "Name":"The Guardian Building",
     "Address":"500 Griswold St, Detroit, MI 48226",
-    "Sights":"TRUE",
-    "ArtAndArch":"TRUE",
-    "Food":"FALSE",
+    "Sights":"true",
+    "ArtAndArch":"true",
+    "Food":"false",
     "Notes":"Beautiful interior mosaics"
     }
   },
@@ -40,9 +40,9 @@
     "properties": {
     "Name":"Supino Pizzeria",
     "Address":"2457 Russell St, Detroit, MI 48207",
-    "Sights":"FALSE",
-    "ArtAndArch":"FALSE",
-    "Food":"TRUE",
+    "Sights":"false",
+    "ArtAndArch":"false",
+    "Food":"true",
     "Notes":"Great pizza"
     }
   },
@@ -55,9 +55,9 @@
     "properties": {
     "Name":"Fox Theatre",
     "Address":"2211 Woodward Ave, Detroit, MI 48201",
-    "Sights":"TRUE",
-    "ArtAndArch":"TRUE",
-    "Food":"FALSE",
+    "Sights":"true",
+    "ArtAndArch":"true",
+    "Food":"false",
     "Notes":"Beautiful old restored movie palace"
     }
   },
