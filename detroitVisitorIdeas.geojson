@@ -8,7 +8,7 @@
        "coordinates":  [ -83.039794,42.329063 ]
     },
     "properties": {
-    "Name":"Renn Center",
+    "Name":"Renaissance Center",
     "Address":"100 Renaissance Center, Detroit, MI 48243",
     "Sights": true,
     "ArtAndArch": false,
@@ -115,9 +115,9 @@
     "properties": {
     "Name":"Michigan Central Station",
     "Address":"2001 15th St, Detroit, MI 48216",
-    "Sights":"TRUE",
-    "ArtAndArch":"TRUE",
-    "Food":"FALSE",
+    "Sights": true,
+    "ArtAndArch": true,
+    "Food": false,
     "Notes":"Detroit's most famous ruin"
     }
   }
