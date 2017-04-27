@@ -1,0 +1,125 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.039794,42.329063 ]
+    },
+    "properties": {
+    "Name":"Renn Center",
+    "Address":"100 Renaissance Center, Detroit, MI 48243",
+    "Sights":"TRUE",
+    "ArtAndArch":"FALSE",
+    "Food":"FALSE",
+    "Notes":"Cars and concrete"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.046049,42.329472 ]
+    },
+    "properties": {
+    "Name":"The Guardian Building",
+    "Address":"500 Griswold St, Detroit, MI 48226",
+    "Sights":"TRUE",
+    "ArtAndArch":"TRUE",
+    "Food":"FALSE",
+    "Notes":"Beautiful interior mosaics"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.040251,42.345345 ]
+    },
+    "properties": {
+    "Name":"Supino Pizzeria",
+    "Address":"2457 Russell St, Detroit, MI 48207",
+    "Sights":"FALSE",
+    "ArtAndArch":"FALSE",
+    "Food":"TRUE",
+    "Notes":"Great pizza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.052399,42.338449 ]
+    },
+    "properties": {
+    "Name":"Fox Theatre",
+    "Address":"2211 Woodward Ave, Detroit, MI 48201",
+    "Sights":"TRUE",
+    "ArtAndArch":"TRUE",
+    "Food":"FALSE",
+    "Notes":"Beautiful old restored movie palace"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.060107,42.341617 ]
+    },
+    "properties": {
+    "Name":"Masonic Temple",
+    "Address":"500 Temple St, Detroit, MI 48201",
+    "Sights":"TRUE",
+    "ArtAndArch":"TRUE",
+    "Food":"FALSE",
+    "Notes":"Largest masonic temple in US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.064784,42.359283 ]
+    },
+    "properties": {
+    "Name":"Detroit Institute of Arts",
+    "Address":"5200 Woodward Ave, Detroit, MI 48202",
+    "Sights":"TRUE",
+    "ArtAndArch":"TRUE",
+    "Food":"FALSE",
+    "Notes":"Great art museum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.075982,42.331591 ]
+    },
+    "properties": {
+    "Name":"Slows BBQ",
+    "Address":"2138 Michigan Ave, Detroit, MI 48216",
+    "Sights":"FALSE",
+    "ArtAndArch":"FALSE",
+    "Food":"TRUE",
+    "Notes":"Good barbecue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.077588,42.328962 ]
+    },
+    "properties": {
+    "Name":"Michigan Central Station",
+    "Address":"2001 15th St, Detroit, MI 48216",
+    "Sights":"TRUE",
+    "ArtAndArch":"TRUE",
+    "Food":"FALSE",
+    "Notes":"Detroit's most famous ruin"
+    }
+  }
+]
+}
