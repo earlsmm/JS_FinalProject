@@ -1,4 +1,4 @@
-{
+var data = {
    "type": "FeatureCollection",
    "features": [
   {
@@ -13,7 +13,8 @@
     "Sights": true,
     "ArtAndArch": false,
     "Food": false,
-    "Notes":"Cars and concrete"
+    "Notes":"Cars and concrete",
+    "type": "lab"
     }
   },
   {
@@ -28,7 +29,8 @@
     "Sights": true,
     "ArtAndArch": true,
     "Food": false,
-    "Notes":"Beautiful interior mosaics"
+    "Notes":"Beautiful interior mosaics",
+    "type": "lab"
     }
   },
   {
