@@ -227,7 +227,8 @@
     "ArtAndArch":false,
     "Food":true,
     "Bar":false,
-    "Notes":"Yes Detroit has it's own style of pizza and Buddy's is one of the best places to get it."
+    "Notes":"Yes Detroit has it's own style of pizza and Buddy's is one of the best places to get it.",
+    "type": "food"
     }
   },
   {
@@ -243,7 +244,8 @@
     "ArtAndArch":false,
     "Food":true,
     "Bar":true,
-    "Notes":"It's football and bowling. Yes it's fowling."
+    "Notes":"It's football and bowling. Yes it's fowling.",
+    "type": "attraction"
     }
   },
   {
@@ -259,7 +261,8 @@
     "ArtAndArch": false,
     "Food":true,
     "Bar":true,
-    "Notes":"24 acre market district. Especially good on market day (Saturday)"
+    "Notes":"24 acre market district. Especially good on market day (Saturday)",
+    "type": "attraction"
     }
   },
   {
@@ -275,7 +278,8 @@
     "ArtAndArch":false,
     "Food":false,
     "Bar":false,
-    "Notes":"Beautiful downtown park with lots of programming throughout the year."
+    "Notes":"Beautiful downtown park with lots of programming throughout the year.",
+    "type": "attraction"
     }
   },
   {
@@ -291,7 +295,8 @@
     "ArtAndArch":true,
     "Food": false,
     "Bar": false,
-    "Notes":"Detroit's beautiful island park."
+    "Notes":"Detroit's beautiful island park.",
+    "type": "attraction"
     }
   },
   {
@@ -307,7 +312,8 @@
     "ArtAndArch": false,
     "Food":true,
     "Bar":true,
-    "Notes":"Hispanic neighborhood with many restaurants"
+    "Notes":"Hispanic neighborhood with many restaurants",
+    "type": "food"
     }
   },
   {
@@ -323,7 +329,8 @@
     "ArtAndArch":true,
     "Food": false,
     "Bar": false,
-    "Notes":"Star shaped fort built in the 1840s. Check out the historic barracks Saturdays and Sundays"
+    "Notes":"Star shaped fort built in the 1840s. Check out the historic barracks Saturdays and Sundays",
+    "type": "attraction"
     }
   },
   {
@@ -339,7 +346,8 @@
     "ArtAndArch":false,
     "Food":false,
     "Bar":false,
-    "Notes":"Trash or art, you decide."
+    "Notes":"Trash or art, you decide.",
+    "type": "attraction"
     }
   },
   {
@@ -355,7 +363,8 @@
     "ArtAndArch":false,
     "Food":true,
     "Bar":true,
-    "Notes":"Lots of and lots greek restaurants and a casino."
+    "Notes":"Lots of and lots greek restaurants and a casino.",
+    "type": "food"
     }
   },
   {
@@ -371,7 +380,8 @@
     "ArtAndArch":true,
     "Food":true,
     "Bar":true,
-    "Notes":"It's a castle and former clubhouse for veterans of the Civil War."
+    "Notes":"It's a castle and former clubhouse for veterans of the Civil War.",
+    "type": "attraction"
     }
   },
   {
@@ -387,7 +397,8 @@
     "ArtAndArch":false,
     "Food":false,
     "Bar":false,
-    "Notes":"Hitsville USA, Motown museum."
+    "Notes":"Hitsville USA, Motown museum.",
+    "type": "museum"
     }
   },
   {
@@ -403,7 +414,8 @@
     "ArtAndArch":false,
     "Food":false,
     "Bar":false,
-    "Notes":"Non-motorized pedestrian trail connecting Eastern Market with the Riverfront"
+    "Notes":"Non-motorized pedestrian trail connecting Eastern Market with the Riverfront",
+    "type": "attraction"
     }
   },
   {
@@ -419,7 +431,8 @@
     "ArtAndArch":true,
     "Food":false,
     "Bar":false,
-    "Notes":"Art deco skyscraper from the 1920s. "
+    "Notes":"Art deco skyscraper from the 1920s.",
+    "type": "attraction"
     }
   },
   {
@@ -435,7 +448,8 @@
     "ArtAndArch":false,
     "Food":false,
     "Bar":false,
-    "Notes":"Check out Detroit City FC in this Works Progress Administation era 7,000 person stadium."
+    "Notes":"Check out Detroit City FC in this Works Progress Administation era 7,000 person stadium.",
+    "type": "attraction"
     }
   }
 ]
