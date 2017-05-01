@@ -14,7 +14,7 @@
     "ArtAndArch": false,
     "Food": false,
     "Notes":"Cars and concrete",
-    "type": "lab"
+    "type": "attraction"
     }
   },
   {
@@ -30,7 +30,7 @@
     "ArtAndArch": true,
     "Food": false,
     "Notes":"Check out the beautiful interior mosaics",
-    "type": "lab"
+    "type": "attraction"
     }
   },
   {
@@ -45,7 +45,8 @@
     "Sights": false,
     "ArtAndArch": false,
     "Food": true,
-    "Notes":"Grab some great pizza while exploring nearby Eastern Market"
+    "Notes":"Grab some great pizza while exploring nearby Eastern Market",
+    "type": "food"
     }
   },
   {
@@ -60,7 +61,8 @@
     "Sights": true,
     "ArtAndArch": true,
     "Food": false,
-    "Notes":"Beautiful old restored movie palace"
+    "Notes":"Beautiful old restored movie palace",
+    "type": "attraction"
     }
   },
   {
@@ -75,7 +77,8 @@
     "Sights": true,
     "ArtAndArch": true,
     "Food": false,
-    "Notes":"Largest masonic temple in US"
+    "Notes":"Largest masonic temple in US",
+    "type": "attraction"
     }
   },
   {
@@ -90,7 +93,8 @@
     "Sights": true,
     "ArtAndArch": true,
     "Food": false,
-    "Notes":"Great art museum"
+    "Notes":"Great art museum",
+    "type": "museum"
     }
   },
   {
@@ -105,7 +109,8 @@
     "Sights": false,
     "ArtAndArch": false,
     "Food": true,
-    "Notes":"Good barbecue"
+    "Notes":"Good barbecue",
+    "type": "food"
     }
   },
   {
@@ -120,7 +125,8 @@
     "Sights": true,
     "ArtAndArch": true,
     "Food": false,
-    "Notes":"Detroit's most famous ruin"
+    "Notes":"Detroit's most famous ruin",
+    "type": "attraction"
     }
   },
        {
@@ -136,7 +142,8 @@
     "ArtAndArch":false,
     "Food":false,
     "Bar":true,
-    "Notes":"Speakeasy style bar with a cool vibe."
+    "Notes":"Speakeasy style bar with a cool vibe.",
+    "type": "bar"
     }
   },
   {
@@ -152,7 +159,8 @@
     "ArtAndArch":false,
     "Food":true,
     "Bar":false,
-    "Notes":"Retro coney island restaurant. Best in the city."
+    "Notes":"Retro coney island restaurant. Best in the city.",
+    "type": "food"
     }
   },
   {
@@ -168,7 +176,8 @@
     "ArtAndArch":true,
     "Food":false,
     "Bar":false,
-    "Notes":"Designed by renowned architect Minoru Yamasaki (World Trade Center fame)"
+    "Notes":"Designed by renowned architect Minoru Yamasaki (World Trade Center fame)",
+    "type": "attraction"
     }
   },
   {
@@ -184,7 +193,8 @@
     "ArtAndArch":false,
     "Food":false,
     "Bar":true,
-    "Notes":"Belgian bar with featherbowling"
+    "Notes":"Belgian bar with featherbowling",
+    "type": "bar"
     }
   },
   {
@@ -200,7 +210,8 @@
     "ArtAndArch":true,
     "Food":false,
     "Bar":false,
-    "Notes":"Historic movie theater with Japenese theme and working pipe organ."
+    "Notes":"Historic movie theater with Japenese theme and working pipe organ.",
+    "type": "attraction"
     }
   },
   {
