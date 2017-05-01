@@ -29,7 +29,7 @@
     "Sights": true,
     "ArtAndArch": true,
     "Food": false,
-    "Notes":"Beautiful interior mosaics",
+    "Notes":"Check out the beautiful interior mosaics",
     "type": "lab"
     }
   },
@@ -45,7 +45,7 @@
     "Sights": false,
     "ArtAndArch": false,
     "Food": true,
-    "Notes":"Great pizza"
+    "Notes":"Grab some great pizza while exploring nearby Eastern Market"
     }
   },
   {
@@ -121,6 +121,310 @@
     "ArtAndArch": true,
     "Food": false,
     "Notes":"Detroit's most famous ruin"
+    }
+  },
+       {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.050096,42.334241 ]
+    },
+    "properties": {
+    "Name":"Cafe D'Mongo's Speakeasy",
+    "Address":"1439 Griswold St, Detroit, MI 48226",
+    "Sights": false,
+    "ArtAndArch":false,
+    "Food":false,
+    "Bar":true,
+    "Notes":"Speakeasy style bar with a cool vibe."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.048846,42.331491 ]
+    },
+    "properties": {
+    "Name":"Lafayette Coney Island",
+    "Address":"118 W Lafayette Blvd, Detroit, MI 48226",
+    "Sights":false,
+    "ArtAndArch":false,
+    "Food":true,
+    "Bar":false,
+    "Notes":"Retro coney island restaurant. Best in the city."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.070342,42.359325 ]
+    },
+    "properties": {
+    "Name":"Mc Gregor Conference Center",
+    "Address":"495 W Ferry Ave, Detroit, MI 48202",
+    "Sights":true,
+    "ArtAndArch":true,
+    "Food":false,
+    "Bar":false,
+    "Notes":"Designed by renowned architect Minoru Yamasaki (World Trade Center fame)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.92649,42.401545 ]
+    },
+    "properties": {
+    "Name":"Cadieux Cafe",
+    "Address":"4300 Cadieux Rd, Detroit, MI 48224",
+    "Sights":false,
+    "ArtAndArch":false,
+    "Food":false,
+    "Bar":true,
+    "Notes":"Belgian bar with featherbowling"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.257388,42.417405 ]
+    },
+    "properties": {
+    "Name":"Redford Theatre",
+    "Address":"17360 Lahser Rd, Detroit, MI 48219",
+    "Sights":true,
+    "ArtAndArch":true,
+    "Food":false,
+    "Bar":false,
+    "Notes":"Historic movie theater with Japenese theme and working pipe organ."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.064133,42.418927 ]
+    },
+    "properties": {
+    "Name":"Buddy's Pizza",
+    "Address":"17125 Conant St, Detroit, MI 48212",
+    "Sights":false,
+    "ArtAndArch":false,
+    "Food":true,
+    "Bar":false,
+    "Notes":"Yes Detroit has it's own style of pizza and Buddy's is one of the best places to get it."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.044261,42.393963 ]
+    },
+    "properties": {
+    "Name":"The Fowling Warehouse",
+    "Address":"3901 Christopher St, Detroit, MI 48211",
+    "Sights":false,
+    "ArtAndArch":false,
+    "Food":true,
+    "Bar":true,
+    "Notes":"It's football and bowling. Yes it's fowling."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.040333,42.347094 ]
+    },
+    "properties": {
+    "Name":"Eastern Market",
+    "Address":"",
+    "Sights":true,
+    "ArtAndArch": false,
+    "Food":true,
+    "Bar":true,
+    "Notes":"24 acre market district. Especially good on market day (Saturday)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.046652,42.331633 ]
+    },
+    "properties": {
+    "Name":"Campus Martius",
+    "Address":"800 Woodward Ave, Detroit, MI 48226",
+    "Sights":true,
+    "ArtAndArch":false,
+    "Food":false,
+    "Bar":false,
+    "Notes":"Beautiful downtown park with lots of programming throughout the year."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.979897,42.339767 ]
+    },
+    "properties": {
+    "Name":"Belle Isle",
+    "Address":"Detroit, MI",
+    "Sights":true,
+    "ArtAndArch":true,
+    "Food": false,
+    "Bar": false,
+    "Notes":"Detroit's beautiful island park."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.085185,42.323208 ]
+    },
+    "properties": {
+    "Name":"Mexicantown",
+    "Address":"Detroit, MI",
+    "Sights": false,
+    "ArtAndArch": false,
+    "Food":true,
+    "Bar":true,
+    "Notes":"Hispanic neighborhood with many restaurants"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.096063,42.299225 ]
+    },
+    "properties": {
+    "Name":"Historic Fort Wayne",
+    "Address":"6325 W Jefferson Ave, Detroit, MI 48209",
+    "Sights":true,
+    "ArtAndArch":true,
+    "Food": false,
+    "Bar": false,
+    "Notes":"Star shaped fort built in the 1840s. Check out the historic barracks Saturdays and Sundays"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.021283,42.358728 ]
+    },
+    "properties": {
+    "Name":"Heidelberg Project",
+    "Address":"42 Watson St, Detroit, MI 48201",
+    "Sights":true,
+    "ArtAndArch":false,
+    "Food":false,
+    "Bar":false,
+    "Notes":"Trash or art, you decide."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.04258,42.334901 ]
+    },
+    "properties": {
+    "Name":"Greektown",
+    "Address":"Monroe Ave, Detroit, MI 48826",
+    "Sights":false,
+    "ArtAndArch":false,
+    "Food":true,
+    "Bar":true,
+    "Notes":"Lots of and lots greek restaurants and a casino."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.054997,42.33503 ]
+    },
+    "properties": {
+    "Name":"Grand Army of the Republic Building",
+    "Address":"1942 Grand River Ave, Detroit, MI 48226",
+    "Sights":true,
+    "ArtAndArch":true,
+    "Food":true,
+    "Bar":true,
+    "Notes":"It's a castle and former clubhouse for veterans of the Civil War."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.088428,42.364121 ]
+    },
+    "properties": {
+    "Name":"Motown Museum",
+    "Address":"2648 W Grand Blvd, Detroit, MI 48208",
+    "Sights":true,
+    "ArtAndArch":false,
+    "Food":false,
+    "Bar":false,
+    "Notes":"Hitsville USA, Motown museum."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.032232,42.341874 ]
+    },
+    "properties": {
+    "Name":"Dequindre Cut Greenway",
+    "Address":"Detroit, MI 48207",
+    "Sights":true,
+    "ArtAndArch":false,
+    "Food":false,
+    "Bar":false,
+    "Notes":"Non-motorized pedestrian trail connecting Eastern Market with the Riverfront"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.077424,42.369447 ]
+    },
+    "properties": {
+    "Name":"Fisher Building",
+    "Address":"3011 W Grand Blvd, Detroit, MI 48202",
+    "Sights":true,
+    "ArtAndArch":true,
+    "Food":false,
+    "Bar":false,
+    "Notes":"Art deco skyscraper from the 1920s. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.048984,42.392446 ]
+    },
+    "properties": {
+    "Name":"Keyworth Stadium",
+    "Address":"3201 Roosevelt St, Hamtramck, MI 48212",
+    "Sights":true,
+    "ArtAndArch":false,
+    "Food":false,
+    "Bar":false,
+    "Notes":"Check out Detroit City FC in this Works Progress Administation era 7,000 person stadium."
     }
   }
 ]
