@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Matthew's Detroit Visitor Guide</title>
+        <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+        <link rel="stylesheet" href="css/app.css">
+
+        <script src="js/detroitVisitorIdeas.geojson" type="text/javascript"></script>
+
+    </head>
+
+    <body>
+        <div id = "accordian">
+          <div id = "header">
+              <h2>Matthew's Detroit Visitors Map</h2>
+              <p>Recommendations for visitors from an incurable Detroitphile</p>
+          </div>
+              <div id="infos">
+                <div class = "map-search">
+                    <input type="text" id="map-search-autocomplete" class="map-search-autocomplete">
+                </div>
+                  <div id="results-count">
+                    <h3><span></span> visible markers</h3>
+                  </div>
+                  <form id="buttons" class="buttons">
+                      <input type="checkbox" name="filter" id="attraction" class='chk-btn'>
+                      <label for='Sights' style="background-color:#D83343;">attractions</label>
+
+                      <input type="checkbox" name="filter" id="museums" class='chk-btn'>
+                      <label for='ArtAndArch'style="background-color:#4B6FC1;">museums</label>
+
+                      <input type="checkbox" name="filter" id="food" class='chk-btn'>
+                      <label for='Food'style="background-color: #4B9F7E;">food</label>
+
+                      <input type="checkbox" name="filter" id="bars" class='chk-btn'>
+                      <label for='Bars'style="background-color: #EF7C5E;">bars</label>
+                  </form>
+
+                  <div id ="results-list">
+                    <a href="#" onclick="myClick(0);";><div class="info info-1 infoRed">Renaissance Center</div></a>
+                    <a href="#" onclick="myClick(1);";><div class="info info-2 infoRed">The Guardian Building</div></a>
+                    <a href="#" onclick="myClick(2);"><div class="info info-3 infoGreen">Supinos Pizzeria</div></a>
+                    <a href="#" onclick="myClick(3);"><div class="info info-4 infoRed">Fox Theatre</div></a>
+                    <a href="#" onclick="myClick(4);"><div class="info info-5 infoRed" >Masonic Temple</div></a>
+                    <a href="#" onclick="myClick(5);"><div class="info info-6 infoBlue">Detroit Institute of Art</div></a>
+                    <a href="#" onclick="myClick(6);"><div class="info info-7 infoGreen">Slows Barbecue</div></a>
+                    <a href="#" onclick="myClick(7);"><div class="info info-8 infoRed">Michigan Central Depot</div></a>
+                    <a href="#" onclick="myClick(8);"><div class="info info-9 infoOrange">Cafe D'Mongo's Speakeasy</div></a>
+                    <a href="#" onclick="myClick(9);"><div class="info info-10 infoGreen">Lafayette Coney Island</div></a>
+                    <a href="#" onclick="myClick(10);"><div class="info info-11 infoRed">McGregor Fountains</div></a>
+                    <a href="#" onclick="myClick(11);"><div class="info info-12 infoOrange">Cadieux Cafe</div></a>
+                    <a href="#" onclick="myClick(12);"><div class="info info-13 infoRed">Redford Theatre</div></a>
+                    <a href="#" onclick="myClick(13);"><div class="info info-14 infoGreen">Buddy's Pizza</div></a>
+                    <a href="#" onclick="myClick(14);"><div class="info info-15 infoOrange">The Fowling Warehouse</div></a>
+                    <a href="#" onclick="myClick(15);"><div class="info info-16 infoGreen">Eastern Market</div></a>
+                    <a href="#" onclick="myClick(16);"><div class="info info-17 infoRed">Campus Martius</div></a>
+                    <a href="#" onclick="myClick(17);"><div class="info info-18 infoRed">Belle Isle</div></a>
+                    <a href="#" onclick="myClick(18);"><div class="info info-19 infoGreen">Mexicantown</div></a>
+                    <a href="#" onclick="myClick(19);"><div class="info info-20 infoRed">Historic Fort Wayne</div></a>
+                    <a href="#" onclick="myClick(20);"><div class="info info-21 infoRed">Heidelberg Project</div></a>
+                    <a href="#" onclick="myClick(21);"><div class="info info-22 infoGreen">Greektown</div></a>
+                    <a href="#" onclick="myClick(22);"><div class="info info-23 infoRed">GAR Building</div></a>
+                    <a href="#" onclick="myClick(23);"><div class="info info-24 infoBlue">Motown Museum</div></a>
+                    <a href="#" onclick="myClick(24);"><div class="info info-25 infoRed">Dequidre Cut Greenway</div></a>
+                    <a href="#" onclick="myClick(25);"><div class="info info-26 infoRed">Fisher Building</div></a>
+                    <a href="#" onclick="myClick(26);"><div class="info info-27 infoRed">Keyworth Stadium</div></a>
+                </div>
+              </div>
+        </div>
+
+        <div id = "map"></div>
+
+        <!-- pull in JQuery -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+        <script src="js/app2.js"></script>
+
+        <!-- Call to Goggle Maps Api -->
+        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDMyrdYOJBSg5uF81E3thcJJ2YHe7VrnoE&libraries=places&callback=initMap"></script>
+    </body>
+</html>
