@@ -52,7 +52,7 @@
     "ArtAndArch":"false",
     "Food":"true",
     "Bar":"false",
-    "Notes":"Great pizza adjacent to Eastern Market"
+    "Notes":"Great pizza adjacent to Eastern Market. Voted best pizza in Michigan."
     }
   },
   {
@@ -106,7 +106,7 @@
     "ArtAndArch":"true",
     "Food":"false",
     "Bar":"false",
-    "Notes":"World class art museum."
+    "Notes":"World class art museum. Particularly famous for the Diego Rivera's Detroit Industry Murals. "
     }
   },
   {
@@ -124,7 +124,7 @@
     "ArtAndArch":"false",
     "Food":"true",
     "Bar":"false",
-    "Notes":"Good barbecue in Corktown, Detroit's oldest neighborhood."
+    "Notes":"Good barbecue in Corktown. Tends to be crowded on weekends. Located in Detroit's oldest neighborhood Corktown. "
     }
   },
   {
@@ -232,7 +232,7 @@
     "ArtAndArch":"true",
     "Food":"false",
     "Bar":"false",
-    "Notes":"Historic movie theater with Japenese theme and working pipe organ. Check website for upcoming silent picture features."
+    "Notes":"Historic movie theater with a Japenese interior theme and working pipe organ. Check website for film schedule especially silent picture features."
     }
   },
   {
@@ -485,6 +485,150 @@
     "Food":"false",
     "Bar":"false",
     "Notes":"Check out Detroit City FC in this Works Progress Administation era 7,000 person stadium."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.079495,42.33112 ]
+    },
+    "properties": {
+    "Name":"Two James Spirits",
+    "Address1":"2445 Michigan Ave",
+    "Address2":"Detroit, MI 48216",
+    "type":"bar",
+    "Sights":"",
+    "ArtAndArch":"",
+    "Food":"",
+    "Bar":"",
+    "Notes":"Craft distrillery with a rustic, hip-looking tasting room."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.021415,42.333872 ]
+    },
+    "properties": {
+    "Name":"Chene Park and Riverwalk",
+    "Address1":"2600 Atwater St",
+    "Address2":"Detroit, MI 48207",
+    "type":"attraction",
+    "Sights":"",
+    "ArtAndArch":"",
+    "Food":"",
+    "Bar":"",
+    "Notes":"Larger outdoor amphitheater on the Detroit River. Part of growing revitalization and greening of the city's waterfront."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.028683,42.379379 ]
+    },
+    "properties": {
+    "Name":"Packard Automotive Plant",
+    "Address1":"East Grand Blvd and Concord Ave",
+    "Address2":"Detroit, MI 48211",
+    "type":"attraction",
+    "Sights":"",
+    "ArtAndArch":"",
+    "Food":"",
+    "Bar":"",
+    "Notes":"Enormous former auto plant. It until recently has been the poster child of the Detroit's industrial decline. Multi-phase rehabilitation is set to begin in May 2017. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.114239,42.431406 ]
+    },
+    "properties": {
+    "Name":"Dutch Girl Donuts",
+    "Address1":"19000 Woodward Ave",
+    "Address2":"Detroit, MI 48203",
+    "type":"food",
+    "Sights":"",
+    "ArtAndArch":"",
+    "Food":"",
+    "Bar":"",
+    "Notes":"Opened since 1947. Simple good donuts."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.064194,42.350514 ]
+    },
+    "properties": {
+    "Name":"Avalon International Breads",
+    "Address1":"422 W Wills St",
+    "Address2":"Detroit, MI 48201",
+    "type":"food",
+    "Sights":"",
+    "ArtAndArch":"",
+    "Food":"",
+    "Bar":"",
+    "Notes":"Cafe and bakery serving fresh breads, baked goods, and sandwiches. A Detroit institution. Recently opened another cafe downtown."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.068288,42.329988 ]
+    },
+    "properties": {
+    "Name":"Corktown Neighborhood",
+    "Address1":"Michigan Ave and Trumbull Ave",
+    "Address2":"Detroit, MI 48216",
+    "type":"attraction",
+    "Sights":"",
+    "ArtAndArch":"",
+    "Food":"",
+    "Bar":"",
+    "Notes":"Historic Irish neighborhood. Detroit's oldest neighborhood and noted for unique shotgun style homes. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.126097,42.441892 ]
+    },
+    "properties": {
+    "Name":"Woodlawn Cemetery",
+    "Address1":"19975 Woodward Ave",
+    "Address2":"Detroit, MI 48203",
+    "type":"attraction",
+    "Sights":"",
+    "ArtAndArch":"",
+    "Food":"",
+    "Bar":"",
+    "Notes":"Historic Detroit cemetery. Notable people buried here include the Dodge Brothers, several Fords, and Rosa Parks."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.99932,42.335023 ]
+    },
+    "properties": {
+    "Name":"Scott Memorial Fountain",
+    "Address1":"East Jefferson and East Grand Blvd",
+    "Address2":"Detroit, MI 48207",
+    "type":"attraction",
+    "Sights":"",
+    "ArtAndArch":"",
+    "Food":"",
+    "Bar":"",
+    "Notes":"Named after the man who donated the money to construct it (also a reported scoundrel of Detroit's past) this enormous fountain is a must see on Belle Isle. "
     }
   }
 ]
