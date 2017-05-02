@@ -12,12 +12,12 @@
     "Address1":"100 Renaissance Center",
     "Address2":"Detroit, MI 48243",
     "type":"attraction",
-    "Link":"https://en.wikipedia.org/wiki/Renaissance_Center",
     "Sights":"true",
     "ArtAndArch":"false",
     "Food":"false",
     "Bar":"false",
-    "Notes":"Headquarters to General Motors. Cars and concrete."
+    "Notes":"Headquarters to General Motors. Cars and concrete.",
+    "Link":"https://en.wikipedia.org/wiki/Renaissance_Center"
     }
   },
   {
@@ -35,7 +35,8 @@
     "ArtAndArch":"true",
     "Food":"false",
     "Bar":"false",
-    "Notes":"Art deco skyscraper with beautiful interior mosaic work."
+    "Notes":"Art deco skyscraper with beautiful interior mosaic work.",
+    "Link":"http://www.historicdetroit.org/building/guardian-building/"
     }
   },
   {
@@ -53,7 +54,8 @@
     "ArtAndArch":"false",
     "Food":"true",
     "Bar":"false",
-    "Notes":"Great pizza adjacent to Eastern Market. Voted best pizza in Michigan."
+    "Notes":"Great pizza adjacent to Eastern Market. Voted best pizza in Michigan.",
+    "Link":"https://www.yelp.com/biz/supino-pizzeria-detroit"
     }
   },
   {
@@ -71,7 +73,8 @@
     "ArtAndArch":"true",
     "Food":"false",
     "Bar":"false",
-    "Notes":"Beautiful old restored movie palace"
+    "Notes":"Beautiful old restored theater with and the largest surviving movie palace of the 1920s.",
+    "Link":"http://www.olympiaentertainment.com/fox-theatre"
     }
   },
   {
@@ -89,7 +92,8 @@
     "ArtAndArch":"true",
     "Food":"false",
     "Bar":"false",
-    "Notes":"Gorgeous neo-gothic building and the world's largest masonic temple."
+    "Notes":"Gorgeous neo-gothic building and the world's largest masonic temple.",
+    "Link":"https://en.wikipedia.org/wiki/Detroit_Masonic_Temple"
     }
   },
   {
@@ -107,7 +111,8 @@
     "ArtAndArch":"true",
     "Food":"false",
     "Bar":"false",
-    "Notes":"World class art museum. Particularly famous for the Diego Rivera's Detroit Industry Murals. "
+    "Notes":"World class art museum. Particularly famous for the Diego Rivera's Detroit Industry Murals. ",
+    "Link":"http://www.dia.org/"
     }
   },
   {
@@ -125,7 +130,8 @@
     "ArtAndArch":"false",
     "Food":"true",
     "Bar":"false",
-    "Notes":"Good barbecue in Corktown. Tends to be crowded on weekends. Located in Detroit's oldest neighborhood Corktown. "
+    "Notes":"Good barbecue in Corktown. Tends to be crowded on weekends. ",
+    "Link":"https://slowsbarbq.com/"
     }
   },
   {
@@ -143,7 +149,8 @@
     "ArtAndArch":"true",
     "Food":"false",
     "Bar":"false",
-    "Notes":"Detroit's most famous ruin. The last trains left the station in 1988."
+    "Notes":"Detroit's most famous ruin. The last trains left the station in 1988.",
+    "Link":"https://en.wikipedia.org/wiki/Michigan_Central_Station"
     }
   },
   {
@@ -161,7 +168,8 @@
     "ArtAndArch":"false",
     "Food":"false",
     "Bar":"true",
-    "Notes":"Speakeasy style bar with a cool vibe. Only open Fridays and Saturdays."
+    "Notes":"Speakeasy style bar with a cool vibe. Only open Fridays and Saturdays.",
+    "Link":"https://www.yelp.com/biz/cafe-d-mongos-speakeasy-detroit-2"
     }
   },
   {
@@ -179,7 +187,8 @@
     "ArtAndArch":"false",
     "Food":"true",
     "Bar":"false",
-    "Notes":"Retro coney island restaurant. Best in the city. Try neighbor and rival American Coney Island and decide which is best."
+    "Notes":"Retro coney island restaurant. Best in the city. Try neighbor and rival American Coney Island and decide which is best.",
+    "Link":"https://www.yelp.com/biz/lafayette-coney-island-detroit"
     }
   },
   {
@@ -197,7 +206,8 @@
     "ArtAndArch":"true",
     "Food":"false",
     "Bar":"false",
-    "Notes":"Designed by renowned architect Minoru Yamasaki (World Trade Center fame), the fountains recent underwent renovation."
+    "Notes":"Designed by renowned architect Minoru Yamasaki (World Trade Center fame), the fountains recent underwent renovation.",
+    "Link":"https://detroit.curbed.com/maps/yamasakis-most-important-architecture-in-around-detroit"
     }
   },
   {
@@ -215,7 +225,8 @@
     "ArtAndArch":"false",
     "Food":"false",
     "Bar":"true",
-    "Notes":"Belgian bar and the only place in the United States where you can play featherbowling"
+    "Notes":"Belgian bar and the only place in the United States where you can play featherbowling",
+    "Link":"http://www.cadieuxcafe.com/"
     }
   },
   {
@@ -233,7 +244,8 @@
     "ArtAndArch":"true",
     "Food":"false",
     "Bar":"false",
-    "Notes":"Historic movie theater with a Japenese interior theme and working pipe organ. Check website for film schedule especially silent picture features."
+    "Notes":"Historic movie theater with a Japenese interior theme and working pipe organ. Check website for film schedule especially silent picture features.",
+    "Link":"http://redfordtheatre.com/"
     }
   },
   {
@@ -251,7 +263,8 @@
     "ArtAndArch":"false",
     "Food":"true",
     "Bar":"false",
-    "Notes":"Yes Detroit has it's own style of pizza and Buddy's is one of the best places to get it."
+    "Notes":"Yes Detroit has it's own style of pizza and Buddy's is one of the best places to get it.",
+    "Link":"http://www.buddyspizza.com/"
     }
   },
   {
@@ -269,7 +282,8 @@
     "ArtAndArch":"true",
     "Food":"true",
     "Bar":"true",
-    "Notes":"It's football and bowling. Yes it's fowling."
+    "Notes":"It's football and bowling. Yes it's fowling.",
+    "Link":"http://fowlingwarehouse.com/index.html"
     }
   },
   {
@@ -287,7 +301,8 @@
     "ArtAndArch":"FALSE",
     "Food":"true",
     "Bar":"false",
-    "Notes":"24 acre market district. Especially good on market day (Saturday)"
+    "Notes":"24 acre market district. Especially good on market day (Saturday)",
+    "Link":"https://www.easternmarket.com/"
     }
   },
   {
@@ -305,7 +320,8 @@
     "ArtAndArch":"false",
     "Food":"false",
     "Bar":"false",
-    "Notes":"Beautiful downtown park with lots of programming throughout the year."
+    "Notes":"Beautiful downtown park with lots of programming throughout the year.",
+    "Link":"http://www.campusmartiuspark.org/"
     }
   },
   {
@@ -323,7 +339,8 @@
     "ArtAndArch":"true",
     "Food":"false",
     "Bar":"false",
-    "Notes":"Detroit's beautiful island park. "
+    "Notes":"Detroit's beautiful island park. ",
+    "Link":"https://www.belleisleconservancy.org/"
     }
   },
   {
@@ -341,7 +358,8 @@
     "ArtAndArch":"false",
     "Food":"true",
     "Bar":"true",
-    "Notes":"Hispanic neighborhood near the bridge to Canada with many Mexican restaurants."
+    "Notes":"Hispanic neighborhood near the bridge to Canada with many Mexican restaurants.",
+    "Link":"https://detroit.eater.com/maps/5-of-mexicantowns-best-restaurants"
     }
   },
   {
@@ -359,7 +377,8 @@
     "ArtAndArch":"true",
     "Food":"false",
     "Bar":"false",
-    "Notes":"Star-shaped fort built in the 1840s. Check out the historic barracks. Open Saturdays and Sundays seasonally."
+    "Notes":"Star-shaped fort built in the 1840s. Check out the historic barracks. Open Saturdays and Sundays seasonally.",
+    "Link":"http://www.historicfortwaynecoalition.com/"
     }
   },
   {
@@ -377,7 +396,8 @@
     "ArtAndArch":"false",
     "Food":"false",
     "Bar":"false",
-    "Notes":"Neighborhood sized art project. Trash or art, you decide."
+    "Notes":"Neighborhood sized art project. Trash or art, you decide.",
+    "Link":"http://www.heidelberg.org/"
     }
   },
   {
@@ -395,7 +415,8 @@
     "ArtAndArch":"false",
     "Food":"true",
     "Bar":"true",
-    "Notes":"Lots of and lots greek restaurants and a big ole casino."
+    "Notes":"Lots of and lots greek restaurants and a big ole casino.",
+    "Link":"https://en.wikipedia.org/wiki/Greektown,_Detroit"
     }
   },
   {
@@ -413,7 +434,8 @@
     "ArtAndArch":"true",
     "Food":"true",
     "Bar":"true",
-    "Notes":"Grand Army of the Republic Building. It's a castle and former clubhouse for veterans of the Civil War. Houses the trendy gastropub Republic."
+    "Notes":"Grand Army of the Republic Building. It's a castle and former clubhouse for veterans of the Civil War. Houses the trendy gastropub Republic.",
+    "Link":"https://en.wikipedia.org/wiki/Grand_Army_of_the_Republic_Building"
     }
   },
   {
@@ -431,7 +453,8 @@
     "ArtAndArch":"false",
     "Food":"false",
     "Bar":"false",
-    "Notes":"Hitsville USA, Motown museum is the site of the original Motown records recording studio."
+    "Notes":"Hitsville USA, Motown museum is the site of Berry Gordie's house and the original Motown records recording studio. Soon to undergo a major expansion.",
+    "Link":"https://www.motownmuseum.org/"
     }
   },
   {
@@ -449,7 +472,8 @@
     "ArtAndArch":"false",
     "Food":"false",
     "Bar":"false",
-    "Notes":"Non-motorized pedestrian trail connecting Eastern Market with the Riverfront"
+    "Notes":"Non-motorized pedestrian trail connecting Eastern Market with the Riverfront",
+    "Link":"http://detroitriverfront.org/riverfront/dequindre-cut/dequindre-cut"
     }
   },
   {
@@ -467,7 +491,8 @@
     "ArtAndArch":"true",
     "Food":"false",
     "Bar":"false",
-    "Notes":"Art deco skyscraper from the 1920s. Interior is beautiful and awashed in marble."
+    "Notes":"Art deco skyscraper from the 1920s. Interior is beautiful and awashed in marble.",
+    "Link":"http://historicdetroit.org/building/fisher-building/"
     }
   },
   {
@@ -485,7 +510,8 @@
     "ArtAndArch":"false",
     "Food":"false",
     "Bar":"false",
-    "Notes":"Check out Detroit City FC in this Works Progress Administation era 7,000 person stadium."
+    "Notes":"Check out Detroit City FC in this Works Progress Administation era 7,000 person stadium.",
+    "Link":"https://en.wikipedia.org/wiki/Keyworth_Stadium"
     }
   },
   {
@@ -503,7 +529,8 @@
     "ArtAndArch":"",
     "Food":"",
     "Bar":"",
-    "Notes":"Craft distrillery with a rustic, hip-looking tasting room."
+    "Notes":"Craft distrillery with a rustic, hip-looking tasting room.",
+    "Link":"http://twojames.com/"
     }
   },
   {
@@ -521,7 +548,8 @@
     "ArtAndArch":"",
     "Food":"",
     "Bar":"",
-    "Notes":"Larger outdoor amphitheater on the Detroit River. Part of growing revitalization and greening of the city's waterfront."
+    "Notes":"Larger outdoor amphitheater on the Detroit River. Part of growing revitalization and greening of the city's waterfront.",
+    "Link":"https://cheneparkdetroit.com/"
     }
   },
   {
@@ -539,7 +567,8 @@
     "ArtAndArch":"",
     "Food":"",
     "Bar":"",
-    "Notes":"Enormous former auto plant. It until recently has been the poster child of the Detroit's industrial decline. Multi-phase rehabilitation is set to begin in May 2017. "
+    "Notes":"Enormous former auto plant. It until recently has been the poster child of the Detroit's industrial decline. Multi-phase rehabilitation is set to begin in May 2017. ",
+    "Link":"http://packardplantproject.com/"
     }
   },
   {
@@ -557,7 +586,8 @@
     "ArtAndArch":"",
     "Food":"",
     "Bar":"",
-    "Notes":"Opened since 1947. Simple good donuts."
+    "Notes":"Opened since 1947. Simple good donuts.",
+    "Link":"https://www.yelp.com/biz/dutch-girl-donuts-detroit"
     }
   },
   {
@@ -575,7 +605,8 @@
     "ArtAndArch":"",
     "Food":"",
     "Bar":"",
-    "Notes":"Cafe and bakery serving fresh breads, baked goods, and sandwiches. A Detroit institution. Recently opened another cafe downtown."
+    "Notes":"Cafe and bakery serving fresh breads, baked goods, and sandwiches. A Detroit institution. Recently opened another cafe downtown.",
+    "Link":"http://www.avalonbreads.net/welcome/"
     }
   },
   {
@@ -593,7 +624,8 @@
     "ArtAndArch":"",
     "Food":"",
     "Bar":"",
-    "Notes":"Historic Irish neighborhood. Detroit's oldest neighborhood and noted for unique shotgun style homes. "
+    "Notes":"Historic Irish neighborhood. Detroit's oldest neighborhood and noted for unique shotgun style homes. ",
+    "Link":"https://en.wikipedia.org/wiki/Corktown,_Detroit"
     }
   },
   {
@@ -611,7 +643,8 @@
     "ArtAndArch":"",
     "Food":"",
     "Bar":"",
-    "Notes":"Historic Detroit cemetery. Notable people buried here include the Dodge Brothers, several Fords, and Rosa Parks."
+    "Notes":"Historic Detroit cemetery. Notable people buried here include the Dodge Brothers, several Fords, and Rosa Parks.",
+    "Link":"https://en.wikipedia.org/wiki/Woodlawn_Cemetery_(Detroit,_Michigan)"
     }
   },
   {
@@ -629,7 +662,84 @@
     "ArtAndArch":"",
     "Food":"",
     "Bar":"",
-    "Notes":"Named after the man who donated the money to construct it (also a reported scoundrel of Detroit's past) this enormous fountain is a must see on Belle Isle. "
+    "Notes":"Named after the man who donated the money to construct it (also a reported scoundrel of Detroit's past) this enormous fountain is a must see on Belle Isle. ",
+    "Link":"https://en.wikipedia.org/wiki/James_Scott_Memorial_Fountain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.050304,42.332109 ]
+    },
+    "properties": {
+    "Name":"Book Cadillac Hotel",
+    "Address1":"1114 Washington Blvd",
+    "Address2":"Detroit, MI 48226",
+    "type":"attraction",
+    "Sights":"",
+    "ArtAndArch":"",
+    "Food":"",
+    "Bar":"",
+    "Notes":"Grand dame historic hotel, fully restored at enormous expense.",
+    "Link":"http://www.bookcadillacwestin.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.018675,42.337184 ]
+    },
+    "properties": {
+    "Name":"Atwater Brewery",
+    "Address1":"237 Jos Campau",
+    "Address2":"Detroit, MI 48207",
+    "type":"bar",
+    "Sights":"",
+    "ArtAndArch":"",
+    "Food":"",
+    "Bar":"",
+    "Notes":"Located in the Rivertown neighborhood, Atwater's is known for its traditional German-style lagers. Features a taproom and seasonal biergarten. ",
+    "Link":"http://www.atwaterbeer.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.868971,42.45407 ]
+    },
+    "properties": {
+    "Name":"Edsel Ford House",
+    "Address1":"1100 Lake Shore Rd",
+    "Address2":"Grosse Pointe Shores, MI 48236",
+    "type":"attraction",
+    "Sights":"",
+    "ArtAndArch":"",
+    "Food":"",
+    "Bar":"",
+    "Notes":"Lavish lakefront home of Henry Ford's son Edsel and wife Eleanor",
+    "Link":"https://www.fordhouse.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.998602,42.358639 ]
+    },
+    "properties": {
+    "Name":"Sister Pie",
+    "Address1":"8066 Kercheval Ave",
+    "Address2":"Detroit, MI 48214",
+    "type":"food",
+    "Sights":"",
+    "ArtAndArch":"",
+    "Food":"",
+    "Bar":"",
+    "Notes":"West Village backshop known for its pies and other seasonal baked goods.",
+    "Link":"http://sisterpie.com/"
     }
   }
 ]
