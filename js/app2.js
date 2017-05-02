@@ -136,7 +136,7 @@ function initMap() {
 
     map_options = {
       zoom: 14, //set default zoom level
-      mapTypeId: google.maps.MapTypeId.HYBRID,  //set default map type
+      mapTypeId: google.maps.MapTypeId.roadmap,  //set default map type
       center: {lat: 42.341056, lng: -83.0535502}, //center the map
     }
 
