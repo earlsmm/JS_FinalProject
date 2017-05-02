@@ -12,6 +12,7 @@
     "Address1":"100 Renaissance Center",
     "Address2":"Detroit, MI 48243",
     "type":"attraction",
+    "Image": "img src='http://i.stack.imgur.com/g672i.png"
     "Sights":"true",
     "ArtAndArch":"false",
     "Food":"false",
